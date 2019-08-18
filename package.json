@@ -1,6 +1,6 @@
 {
   "name": "ember-extra-blueprint",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Extras on top of the default Ember CLI blueprint",
   "main": "index.js",
   "scripts": {
