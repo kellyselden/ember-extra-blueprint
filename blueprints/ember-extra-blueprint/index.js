@@ -22,6 +22,5 @@ module.exports = Object.assign({}, MainBlueprint, {
     this._super.init.apply(this, arguments);
 
     this.path = path.join(__dirname, '..', '..');
-    this.name = require('../../package').name;
   }
 });
