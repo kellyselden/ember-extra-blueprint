@@ -1,7 +1,7 @@
 'use strict';
 
 const path = require('path');
-const MainBlueprint = require('../../../index');
+const MainBlueprint = require('../..');
 
 /*
   Create an "addon blueprint" that simply defers to our
