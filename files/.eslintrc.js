@@ -4,6 +4,8 @@ const path = require('path');
 
 module.exports = {
   overrides: [
+
+    // vendor files
     {
       files: ['vendor/**/*.js'],
       parserOptions: {
