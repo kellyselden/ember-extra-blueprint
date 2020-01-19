@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/kellyselden/ember-extra-blueprint/issues"
   },
-  "homepage": "https://github.com/kellyselden/ember-extra-blueprint#readme"
+  "homepage": "https://github.com/kellyselden/ember-extra-blueprint#readme",
+  "engines": {
+    "node": ">=8.10"
+  }
 }
